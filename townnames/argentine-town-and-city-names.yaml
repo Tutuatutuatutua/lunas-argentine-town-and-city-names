@@ -96,6 +96,202 @@ mainset:
     probability: 1
   - name: Cañada de Gómez
     probability: 1
+  - name: Funes
+    probability: 1
+  - name: San Gerónimo
+    probability: 1
+  - name: Carcarañá
+    probability: 1
+  - name: Correa
+    probability: 1
+  - name: Bell Ville
+    probability: 1
+  - name: Villa María
+    probability: 1
+  - name: Córdoba
+    probability: 1
+  - name: Argüello
+    probability: 1
+  - name: La Calera
+    probability: 1
+  - name: Cosquín
+    probability: 1
+  - name: Santa Fe
+    probability: 1
+  - name: Rafaela
+    probability: 1
+  - name: Resistencia
+    probability: 1
+  - name: Corrientes
+    probability: 1
+  - name: Posadas
+    probability: 1
+  - name: Puerto Iguazú
+    probability: 1
+  - name: Concordia
+    probability: 1
+  - name: Paraná
+    probability: 1
+  - name: Gualeguay
+    probability: 1
+  - name: Gualeguaychú
+    probability: 1
+  - name: Río Primero
+    probability: 1
+  - name: Río Segundo
+    probability: 1
+  - name: Río Tercero
+    probability: 1
+  - name: Río Cuarto
+    probability: 1
+  - name: La Banda
+    probability: 1
+  - name: Santiago del Estero
+    probability: 1
+  - name: Termas de Río Hondo
+    probability: 1
+  - name: San Miguel de Tucumán
+    probability: 1
+  - name: San Fernando del Valle de Catamarca
+    probability: 1
+  - name: La Rioja
+    probability: 1
+  - name: Chacabuco
+    probability: 1
+  - name: Junín
+    probability: 1
+  - name: Rufino
+    probability: 1
+  - name: Laboulaye
+    probability: 1
+  - name: Vicuña Mackenna
+    probability: 1
+  - name: Justo Daract
+    probability: 1
+  - name: Villa Mercedes
+    probability: 1
+  - name: San Luis
+    probability: 1
+  - name: Mendoza
+    probability: 1
+  - name: San Juan
+    probability: 1
+  - name: San Rafael
+    probability: 1
+  - name: Suipacha
+    probability: 1
+  - name: Chivilcoy
+    probability: 1
+  - name: Bragado
+    probability: 1
+  - name: Nueve de Julio
+    probability: 1
+  - name: Carlos Casares
+    probability: 1
+  - name: Pehuajó
+    probability: 1
+  - name: Trenque Lauquen
+    probability: 1
+  - name: Santa Rosa
+    probability: 1
+  - name: Lezama
+    probability: 1
+  - name: Castelli
+    probability: 1
+  - name: Dolores
+    probability: 1
+  - name: General Guido
+    probability: 1
+  - name: Maipú
+    probability: 1
+  - name: Coronel Vidal
+    probability: 1
+  - name: Mar del Plata
+    probability: 1
+  - name: Villa Gesell
+    probability: 1
+  - name: Pinamar
+    probability: 1
+  - name: Mar de Ajó
+    probability: 1
+  - name: Santa Teresita
+    probability: 1
+  - name: Las Toninas
+    probability: 1
+  - name: San Clemente del Tuyú
+    probability: 1
+  - name: Miramar
+    probability: 1
+  - name: Necochea
+    probability: 1
+  - name: San Carlos de Balcarce
+    probability: 1
+  - name: Tres Arroyos
+    probability: 1
+  - name: Tandil
+    probability: 1
+  - name: San Miguel del Monte
+    probability: 1
+  - name: Las Flores
+    probability: 1
+  - name: Azul
+    probability: 1
+  - name: Olavarría
+    probability: 1
+  - name: Coronel Suárez
+    probability: 1
+  - name: Coronel Pringles
+    probability: 1
+  - name: Bahía Blanca
+    probability: 1
+  - name: General Roca
+    probability: 1
+  - name: Cipoletti
+    probability: 1
+  - name: Neuquén
+    probability: 1
+  - name: Plottier
+    probability: 1
+  - name: Zapala
+    probability: 1
+  - name: Carmen de Patagones
+    probability: 1
+  - name: Viedma
+    probability: 1
+  - name: San Antonio Oeste
+    probability: 1
+  - name: Ingeniero Jacobacci
+    probability: 1
+  - name: San Carlos de Bariloche
+    probability: 1
+  - name: Villa La Angostura
+    probability: 1
+  - name: Puerto Madryn
+    probability: 1
+  - name: Trelew
+    probability: 1
+  - name: Rawson
+    probability: 1
+  - name: Comodoro Rivadavia
+    probability: 1
+  - name: Puerto Deseado
+    probability: 1
+  - name: Río Gallegos
+    probability: 1
+  - name: Río Grande
+    probability: 1
+  - name: Ushuaia
+    probability: 1
+  - name: San José de Metán
+    probability: 1
+  - name: Salta
+    probability: 1
+  - name: San Salvador de Jujuy
+    probability: 1
+  - name: Humahuaca
+    probability: 1
+  - name: La Quiaca
+    probability: 1
 name: Argentine town and city names
 source: null
 subsets: []
