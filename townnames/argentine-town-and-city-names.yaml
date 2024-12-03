@@ -1,0 +1,101 @@
+available: true
+id: 0
+mainset:
+- names:
+  - name: Buenos Aires
+    probability: 1
+  - name: Vicente López
+    probability: 1
+  - name: San Isidro
+    probability: 1
+  - name: San Fernando
+    probability: 1
+  - name: Tigre
+    probability: 1
+  - name: Belén de scobar
+    probability: 1
+  - name: Campana
+    probability: 1
+  - name: Zárate
+    probability: 1
+  - name: General San Martín
+    probability: 1
+  - name: San Miguel
+    probability: 1
+  - name: Malvinas Argentinas
+    probability: 1
+  - name: Tres de Febrero
+    probability: 1
+  - name: Hurlingham
+    probability: 1
+  - name: José C. Paz
+    probability: 1
+  - name: Pilar
+    probability: 1
+  - name: Morón
+    probability: 1
+  - name: Ituzaingó
+    probability: 1
+  - name: Moreno
+    probability: 1
+  - name: Merlo
+    probability: 1
+  - name: General Rodríguez
+    probability: 1
+  - name: Luján
+    probability: 1
+  - name: Marcos Paz
+    probability: 1
+  - name: La Matanza
+    probability: 1
+  - name: General Las Heras
+    probability: 1
+  - name: Ezeiza
+    probability: 1
+  - name: Cañuelas
+    probability: 1
+  - name: Avellaneda
+    probability: 1
+  - name: Lanús
+    probability: 1
+  - name: Lomas de Zamora
+    probability: 1
+  - name: Esteban Echeverría
+    probability: 1
+  - name: Presidente Perón
+    probability: 1
+  - name: San Vicente
+    probability: 1
+  - name: Coronel Brandsen
+    probability: 1
+  - name: Chascomús
+    probability: 1
+  - name: Quilmes
+    probability: 1
+  - name: Almirante Brown
+    probability: 1
+  - name: Berazategui
+    probability: 1
+  - name: Florencio Varela
+    probability: 1
+  - name: La Plata
+    probability: 1
+  - name: Ensenada
+    probability: 1
+  - name: Berisso
+    probability: 1
+  - name: Mercedes
+    probability: 1
+  - name: Lobos
+    probability: 1
+  - name: San Nicolás de los Arrollos
+    probability: 1
+  - name: San Pedro
+    probability: 1
+  - name: Rosario
+    probability: 1
+  - name: Cañada de Gómez
+    probability: 1
+name: Argentine town and city names
+source: null
+subsets: []
